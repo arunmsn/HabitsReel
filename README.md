@@ -1,5 +1,6 @@
 # HabitsReel
 HabitsReel+ - Do or Die
 
-This is the Github for our new revolutionary app. 
-Made through the collaboration of multiple governments and multinational organizations.
+The repo for our new revolutionary lifestyle app.
+Made through the collaboration of Arun, Yogansh, Shariar, and Mauricio.
+Vetted by Vazmagic.
