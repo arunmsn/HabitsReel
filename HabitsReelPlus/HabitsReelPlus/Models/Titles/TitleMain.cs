@@ -8,7 +8,7 @@ namespace HabitsReelPlus.Models.Titles
 {
     public static class TitleMain
     {
-        public static string loginTitle { get; set; } = "Login";
+        public static string LoginTitle { get; set; } = "Login";
         public static string FgtPwd { get; set; } = "Forgot Password";
     }
 }

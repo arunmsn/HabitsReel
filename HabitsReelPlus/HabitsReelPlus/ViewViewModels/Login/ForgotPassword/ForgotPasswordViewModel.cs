@@ -1,15 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using HabitsReelPlus.Models.Titles;
+using MyFirstMobileApp.ViewViewModels.Base;
 
 namespace HabitsReelPlus.ViewViewModels.Login.ForgotPassword
 {
-    internal class ForgotPasswordViewModel
+    internal class ForgotPasswordViewModel : BaseViewModel
     {
         public ForgotPasswordViewModel() {
-            Title = TitleMain.FrgtPwd;
+            Title = TitleMain.FgtPwd;
         }
     }
 }
