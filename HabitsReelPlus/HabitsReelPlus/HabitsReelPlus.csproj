@@ -54,7 +54,12 @@
 
 	<ItemGroup>
 	  <Folder Include="Models\Titles\" />
-	  <Folder Include="ViewViewModels\" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="ViewViewModels\Login\ForgotPassword\ForgotPasswordView.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	</ItemGroup>
 
 </Project>
