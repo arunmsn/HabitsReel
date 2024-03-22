@@ -8,45 +8,45 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HabitsReelPlus
-build_property.ProjectDir = C:\_Students\Agarwal\HabitsReelPlus\HabitsReelPlus\HabitsReelPlus\
+build_property.ProjectDir = C:\_Students\SathiaNarayanan\HabitsReelPlus_Master\HabitsReelPlus\HabitsReelPlus\
 
-[C:/_Students/Agarwal/HabitsReelPlus/HabitsReelPlus/HabitsReelPlus/App.xaml]
+[C:/_Students/SathiaNarayanan/HabitsReelPlus_Master/HabitsReelPlus/HabitsReelPlus/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HabitsReelPlus.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/_Students/Agarwal/HabitsReelPlus/HabitsReelPlus/HabitsReelPlus/AppShell.xaml]
+[C:/_Students/SathiaNarayanan/HabitsReelPlus_Master/HabitsReelPlus/HabitsReelPlus/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HabitsReelPlus.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/_Students/Agarwal/HabitsReelPlus/HabitsReelPlus/HabitsReelPlus/MainPage.xaml]
+[C:/_Students/SathiaNarayanan/HabitsReelPlus_Master/HabitsReelPlus/HabitsReelPlus/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HabitsReelPlus.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/_Students/Agarwal/HabitsReelPlus/HabitsReelPlus/HabitsReelPlus/Resources/Styles/Colors.xaml]
+[C:/_Students/SathiaNarayanan/HabitsReelPlus_Master/HabitsReelPlus/HabitsReelPlus/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HabitsReelPlus.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/_Students/Agarwal/HabitsReelPlus/HabitsReelPlus/HabitsReelPlus/Resources/Styles/Styles.xaml]
+[C:/_Students/SathiaNarayanan/HabitsReelPlus_Master/HabitsReelPlus/HabitsReelPlus/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HabitsReelPlus.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/_Students/SathiaNarayanan/HabitsReelPlus/HabitsReelPlus/HabitsReelPlus/ViewViewModels/Login/ForgotPassword/ForgotPasswordView.xaml]
+[C:/_Students/SathiaNarayanan/HabitsReelPlus_Master/HabitsReelPlus/HabitsReelPlus/ViewViewModels/Login/ForgotPassword/ForgotPasswordView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HabitsReelPlus.ViewViewModels.Login.ForgotPassword.ForgotPasswordView.xaml
 build_metadata.AdditionalFiles.TargetPath = ViewViewModels\Login\ForgotPassword\ForgotPasswordView.xaml
 build_metadata.AdditionalFiles.RelativePath = ViewViewModels\Login\ForgotPassword\ForgotPasswordView.xaml
 
-[C:/_Students/SathiaNarayanan/HabitsReelPlus/HabitsReelPlus/HabitsReelPlus/ViewViewModels/Login/LoginView.xaml]
+[C:/_Students/SathiaNarayanan/HabitsReelPlus_Master/HabitsReelPlus/HabitsReelPlus/ViewViewModels/Login/LoginView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = HabitsReelPlus.ViewViewModels.Login.LoginView.xaml
 build_metadata.AdditionalFiles.TargetPath = ViewViewModels\Login\LoginView.xaml

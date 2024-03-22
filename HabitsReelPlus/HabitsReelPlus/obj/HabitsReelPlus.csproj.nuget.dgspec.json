@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_Students\\SathiaNarayanan\\HabitsReelPlus\\HabitsReelPlus\\HabitsReelPlus\\HabitsReelPlus.csproj": {}
+    "C:\\_Students\\SathiaNarayanan\\HabitsReelPlus_Master\\HabitsReelPlus\\HabitsReelPlus\\HabitsReelPlus.csproj": {}
   },
   "projects": {
-    "C:\\_Students\\SathiaNarayanan\\HabitsReelPlus\\HabitsReelPlus\\HabitsReelPlus\\HabitsReelPlus.csproj": {
+    "C:\\_Students\\SathiaNarayanan\\HabitsReelPlus_Master\\HabitsReelPlus\\HabitsReelPlus\\HabitsReelPlus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_Students\\SathiaNarayanan\\HabitsReelPlus\\HabitsReelPlus\\HabitsReelPlus\\HabitsReelPlus.csproj",
+        "projectUniqueName": "C:\\_Students\\SathiaNarayanan\\HabitsReelPlus_Master\\HabitsReelPlus\\HabitsReelPlus\\HabitsReelPlus.csproj",
         "projectName": "HabitsReelPlus",
-        "projectPath": "C:\\_Students\\SathiaNarayanan\\HabitsReelPlus\\HabitsReelPlus\\HabitsReelPlus\\HabitsReelPlus.csproj",
+        "projectPath": "C:\\_Students\\SathiaNarayanan\\HabitsReelPlus_Master\\HabitsReelPlus\\HabitsReelPlus\\HabitsReelPlus.csproj",
         "packagesPath": "C:\\Users\\e143385\\.nuget\\packages\\",
-        "outputPath": "C:\\_Students\\SathiaNarayanan\\HabitsReelPlus\\HabitsReelPlus\\HabitsReelPlus\\obj\\",
+        "outputPath": "C:\\_Students\\SathiaNarayanan\\HabitsReelPlus_Master\\HabitsReelPlus\\HabitsReelPlus\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
