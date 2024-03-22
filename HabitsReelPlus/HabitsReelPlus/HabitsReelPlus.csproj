@@ -52,4 +52,14 @@
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="Models\Titles\" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="ViewViewModels\Login\ForgotPassword\ForgotPasswordView.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	</ItemGroup>
+
 </Project>
